@@ -1,10 +1,10 @@
 # Project Setup
 
-[![Production Workflow](https://github.com/SPowers123/docker_flask/actions/workflows/prod.yml/badge.svg)](https://github.com/SPowers123/docker_flask/actions/workflows/prod.yml)
+[![Production Workflow](https://github.com/SPowers123/IS219Proj1v3/actions/workflows/prod.yml/badge.svg)](https://github.com/SPowers123/IS219Proj1v3/actions/workflows/prod.yml)
 
 * [Production Deployment](https://proj1v3-production.herokuapp.com/)
 
-[![Development Workflow](https://github.com/SPowers123/docker_flask/actions/workflows/dev.yml/badge.svg)](https://github.com/SPowers123/docker_flask/actions/workflows/dev.yml)
+[![Development Workflow](https://github.com/SPowers123/IS219Proj1v3/actions/workflows/dev.yml/badge.svg)](https://github.com/SPowers123/IS219Proj1v3/actions/workflows/dev.yml)
 
 * [Developmental Deployment](https://proj1v3-development.herokuapp.com/)
 
