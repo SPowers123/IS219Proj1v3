@@ -6,7 +6,7 @@
 
 [![Development Workflow](https://github.com/SPowers123/IS219Proj1v3/actions/workflows/dev.yml/badge.svg)](https://github.com/SPowers123/IS219Proj1v3/actions/workflows/dev.yml)
 
-* [Developmental Deployment](https://proj1v3-development.herokuapp.com/)
+* [Developmental Deployment](https://projv3-development.herokuapp.com/)
 
 ## Setting up CI/CD
 
