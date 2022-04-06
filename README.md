@@ -8,6 +8,10 @@
 
 * [Developmental Deployment](https://projv3-development.herokuapp.com/)
 
+[![Production Workflow](https://github.com/SPowers123/IS219Proj2/actions/workflows/prod.yml/badge.svg)](https://github.com/SPowers123/IS219Proj2/actions/workflows/prod.yml)
+
+[![Development Workflow](https://github.com/SPowers123/IS219Proj2/actions/workflows/dev.yml/badge.svg)](https://github.com/SPowers123/IS219Proj2/actions/workflows/dev.yml)
+
 ## Setting up CI/CD
 
 The result of this will be that when you create a pull request to merge a branch to master, it will deploy to your
